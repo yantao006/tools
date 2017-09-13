@@ -1,18 +1,3 @@
-/***************************************************************************
- * 
- * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
- 
- 
- 
-/**
- * @file base64.cpp
- * @author renke(com@baidu.com)
- * @date 2017/03/21 13:41:46
- * @brief 
- *  
- **/
 #include "base64.h"
 #include <iostream>
 
@@ -112,24 +97,3 @@ std::string Base64::base64_decode(std::string const& encoded_string) {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* vim: set expandtab ts=4 sw=4 sts=4 tw=100: */

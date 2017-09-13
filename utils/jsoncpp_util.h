@@ -1,17 +1,3 @@
-/***************************************************************************
- *
- * Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
- *
- **************************************************************************/
-
-/**
- * @file jsoncpp_util.h
- * @author zhangluxin(com@baidu.com)
- * @date 2016/03/02 15:08:53
- * @brief
- *
- **/
-
 #ifndef GR_JSONCPP_UTIL_H
 #define GR_JSONCPP_UTIL_H 
 

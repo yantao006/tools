@@ -1,16 +1,3 @@
-/***************************************************************************
- * 
- * Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
- 
-/**
- * @file sofa_common.cpp
- * @author renke(com@baidu.com)
- * @date 2016/09/07 16:11:46
- * @brief 
- *  
- **/
 #include "sofa_common.h"
 #include <sstream>
 #include <stdlib.h>

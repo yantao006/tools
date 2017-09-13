@@ -1,16 +1,3 @@
-/***************************************************************************
- * 
- * Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
- 
-/**
- * @file utils.cpp
- * @author renke(com@baidu.com)
- * @date 2016/03/09 19:11:46
- * @brief 
- *  
- **/
 #include "utils.h"
 #include "cms.h"
 #include "json_util.h"

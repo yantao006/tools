@@ -1,17 +1,3 @@
-/***************************************************************************
- * 
- * Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
- 
-/**
- * @file utils.h
- * @author renke(com@baidu.com)
- * @date 2016/03/09 16:46:47
- * @brief 
- *  
- **/
-
 #ifndef  GR_UTILS_H
 #define  GR_UTILS_H
 
